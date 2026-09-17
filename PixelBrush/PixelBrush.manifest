@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "author": "mkdsfm",
+  "description": {
+    "": "Pixel-style brush for Fusion 360 sketches"
+  },
+  "version": "1.6.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac"
+}
