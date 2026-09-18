@@ -31,6 +31,14 @@
 - Press OK to generate the final sketch boundary.
 - Cancel discards the temporary pixels.
 
+## Example
+
+Pixel Brush can be used to draw stepped outlines for layered or multicolor parts. After turning the sketch profiles into model features, the result can be manufactured as a physical pixel-art part.
+
+| Fusion 360 sketch | Finished multicolor print |
+| --- | --- |
+| ![Pixel Brush boundary sketch in Fusion 360](./assets/pixel-brush-sketch-example.png) | ![Finished multicolor pixel-art print](./assets/pixel-brush-printed-example.png) |
+
 ## Note
 
 The mouse-to-sketch mapping assumes the usual Fusion sketch-editing view where the camera is normal to the sketch plane. This is the normal state when editing a sketch.
