@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "author": "mkdsfm",
+  "description": {
+    "": "Convert PNG images into merged pixel-art sketch profiles"
+  },
+  "version": "1.0.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac"
+}

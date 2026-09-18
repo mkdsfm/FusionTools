@@ -9,6 +9,7 @@ Each tool lives in its own directory and includes dedicated installation and usa
 | Tool | Description | Version |
 | --- | --- | --- |
 | [Pixel Brush](./PixelBrush/) | A brush for painting square cells in Fusion 360 sketches and generating their combined boundary. | 1.6.0 |
+| [Image to Pixel Art](./ImagePixelArt/) | Converts PNG images into color-separated pixel-art sketches with merged boundaries. | 1.0.0 |
 
 ## Installing add-ins
 
